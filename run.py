@@ -2,7 +2,7 @@ from newsagg import app
 from newsagg.models import db
 from newsagg.routes import *
 
-print('_______')
+
 print(app)
 print(db)
 
