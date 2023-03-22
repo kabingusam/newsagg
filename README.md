@@ -44,6 +44,7 @@ Together, these technologies helped to create a powerful and user-friendly news 
 
 ### Acknowledgments 
 ***
+
 Alx SE Program
 
 I would like to thank the Alx SE Program for providing me with the necessary skills and knowledge to create NewsAgg. I would also like to thank the open-source community for their contributions to the tools and libraries we used to build this platform.
