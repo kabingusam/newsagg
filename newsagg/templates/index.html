@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>NewsAgg</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+        <link rel="stylesheet" href="{{url_for('static', filename='../static/css/main.css')}}">
+        <link rel="stylesheet" href="{{url_for('static', filename='../static/css/fontawesome-all.min.css')}}">
+        <link rel="stylesheet" href="{{url_for('static', filename='../static/css/nonscript.css')}}">
+        <link rel="icon" href="{{ url_for('static', filename='images/newsagg.png') }}">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-7Kp5rLdTm7iEAhZzI2Dmog1KxQx0yHAD9R6UzF6UgEG0xBzZ6f+wG1iYgJ3q5G5Rs5nxX9r7r22rdh5iMD7L8w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="{{ url_for('static', filename='images/newsagg.png') }}" alt="" />
+                                    </span><span class="title">NewsAgg</span>
+								</a>
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="{{ url_for('tech') }}">Tech</a></li>
+							<li><a href="{{ url_for('fashion') }}">Fashion</a></li>
+							<li><a href="{{ url_for('politics') }}">Politics</a></li>
+                            <li><a href="{{ url_for('login') }}">Login</a></li>
+							<li><a href="{{ url_for('login') }}">Sign Up</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+						<div class="inner">
+							<header>
+								<h1>Welcome to the Latest News</h1>
+								<p>Stay up-to-date on the latest news and events from around the world with our comprehensive news aggregator.
+								Whether you're interested in politics, sports, business, entertainment, or technology, we've got you covered. Our website features a wide range of news stories from reputable sources across the globe, so you can get a complete picture of what's happening in the world today.</p>
+								So why wait? Start exploring the latest news today and stay informed on all the latest developments!</p>
+							</header>
+
+                        <h2>Top Stories</h2>
+					<section class="tiles">
+                        {% for article in section1_articles %}
+                            <article class="style2">
+                                <span class="image">
+                                <img src="{{ article.image_url }}" alt="{{ article.title }}">
+                                </span>
+                                <a href="{{ article.url }}">
+                                <h2>{{ article.title|truncate(10) }}</h2>
+                                <div class="content">
+                                    {% if article.description %}
+                                    <p>{{ article.description|truncate(100) }}</p>
+                                    {% endif %}
+                                </div>
+                                </a>
+                            </article>
+                        {% endfor %}
+
+
+							</section>
+						</div>
+					</div>
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+							<h2>Follow</h2>
+							<ul class="icons">
+								<li><a href="#" class="fab fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="fab fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="fab fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							</ul>
+							</section>
+							<ul class="icons">
+							<li><a href="#" class="icon fa-globe"><span class="label">Website</span></a></li>
+							<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+							<li>&copy;</li><li></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+            <script src="{{ url_for('static', filename='../static/js/jquery.min.js') }}"></script>
+            <script src="{{ url_for('static', filename='../static/js/browser.min.js') }}"></script>
+            <script src="{{ url_for('static', filename='../static/js/breakpoints.min.js') }}"></script>
+            <script src="{{ url_for('static', filename='../static/js/util.js') }}"></script>
+            <script src="{{ url_for('static', filename='../static/js/main.js') }}"></script>
+
+	</body>
+</html>

@@ -1,0 +1,65 @@
+{% extends base_template %}
+
+{% block content %}
+    <!-- Main -->
+    <div id="main">
+        <div class="inner">
+            <hr>
+            <div class="row">
+                {% for article in main_politics_articles %}
+                    <div class="col-4 col-6-medium col-12-small">
+                        <section class="box">
+                            <a href="{{ article.url }}" class="image featured"><img src="{{ article.image_url }}" height="10%" alt="" /></a>
+                            <header>
+                                <h3>{{ article.title|truncate(50) }}</h3>
+                                <p>{{ article.description|truncate(50) }}</p>
+                                <p><i>Published by {{ article.channel }} on {{ article.date }}</i></p>
+                            </header>
+                            <footer>
+                                <ul class="actions">
+                                    <li><a href="{{ article.url }}" class="button alt">Learn More</a></li>
+                                </ul>
+                            </footer>
+                        </section>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="pagination">
+                {% if page > 1 %}
+                    <a href="{{ url_for('politics', page=page-1) }}&per_page={{ per_page }}"><i class="fas fa-chevron-left"></i> Previous</a>
+                {% endif %}
+
+                {% if page > 1 and page < total_pages %}
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                {% endif %}
+
+                {% if page < total_pages %}
+                    <a href="{{ url_for('politics', page=page+1) }}&per_page={{ per_page }}">Next <i class="fas fa-chevron-right"></i></a>
+                {% endif %}
+            </div>
+            <style>
+                .pagination {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 20px;
+                }
+
+                .pagination-link {
+                padding: 5px 10px;
+                border-radius: 5px;
+                background-color: #f5f5f5;
+                color: #333;
+                text-decoration: none;
+                margin: 0 5px;
+                }
+
+                .pagination-link:hover {
+                background-color: #333;
+                color: #fff;
+                }
+            </style>
+        </div>
+    </div>
+{% endblock %}
+

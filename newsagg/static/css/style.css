@@ -1,0 +1,86 @@
+/* img {
+  width: 100%;
+  height: auto;
+} */
+
+  .gallery article {
+    height: 400px; /* adjust the height to your liking */
+    margin: 2px;
+  }
+  .gallery article img {
+    height: 100%;
+    object-fit: cover; /* maintain aspect ratio */
+  }
+  
+nav {
+  background-color: #333; /* customize the background color */
+  height: 50px; /* customize the height */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between; /* updated */
+  align-items: center;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav li:last-child a {
+  margin-left: auto; /* added */
+}
+
+nav a {
+  color: #fff; /* customize the link color */
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #fff; /* customize the link hover background color */
+  color: #333; /* customize the link hover color */
+}
+
+.caption {
+    position: relative;
+    overflow: hidden;
+}
+
+.caption:hover .actions {
+    opacity: 1;
+}
+
+.actions {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.actions .button {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 8px;
+}
+.nav-link p{
+  display: flex;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,1201 @@
+
+
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/NewsArticle">
+<head>
+<link rel="preconnect" href="https://d12oja0ew7x0i8.cloudfront.net" />
+<link rel="preconnect" href="https://use.typekit.net" />
+<link rel="preconnect" href="https://p.typekit.net" />
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" />
+<link rel="preconnect" href="https://www.googletagmanager.com" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" /><title>
+	Using Sunlight to Produce Important Fuels and Chemicals
+</title>
+<link itemprop="mainEntityOfPage" href="https://www.azom.com/news.aspx?newsID=61023" />
+<meta itemprop="description" content="A viable method for achieving solar energy storage and a negative carbon cycle is artificial photosynthesis (AP), which uses sunlight to convert carbon dioxide (CO2) into useful chemicals and fuels." />
+<meta itemprop="datePublished" content="2023-03-20T06:15:00.0000000-04:00" />
+<meta itemprop="dateModified" content="2023-03-20T10:57:00.0000000-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@AZoM" />
+<meta name="twitter:title" content="Using Sunlight to Produce Important Fuels and Chemicals" />
+<meta name="twitter:description" content="A viable method for achieving solar energy storage and a negative carbon cycle is artificial photosynthesis (AP), which uses sunlight to convert carbon dioxide (CO2) into useful chemicals and fuels." />
+<meta name="twitter:image:src" content="https://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_61023_1679307327688142.jpg" />
+<meta property="og:title" content="Using Sunlight to Produce Important Fuels and Chemicals" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_61023_1679307327688142.jpg" />
+<meta property="og:url" content="https://www.azom.com/news.aspx?newsID=61023" />
+<meta property="og:description" content="A viable method for achieving solar energy storage and a negative carbon cycle is artificial photosynthesis (AP), which uses sunlight to convert carbon dioxide (CO2) into useful chemicals and fuels." />
+<meta property="og:site_name" content="AZoM.com" />
+<meta property="article:published_time" content="2023-03-20T06:15:00.0000000-04:00" />
+<meta property="article:modified_time" content="2023-03-20T10:57:00.0000000-04:00" />
+<meta property="article:section" content="Materials News" />
+<meta property="fb:app_id" content="191285697581963" />
+<meta name="referrer" content="unsafe-url" /><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.azom.com/news.aspx?newsID=61023" /><link rel="stylesheet" href="https://use.typekit.net/xfn6bcq.css" media="print" onload="this.media='all'; this.onload=null;">
+
+    <script type="text/javascript">
+        var bStrictCookies = false;
+        window._azoStartScripts = [];
+        window.$ = function (fn) {
+            if (typeof fn === 'function') { _azoStartScripts.push(fn); }
+        };
+
+        
+        (function () {
+            var readCookie = function (name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            };
+
+            var cp = readCookie('cookiepolicy');
+            
+            var isCookieBarShown = (cp && cp.length === 3) ? false : !!readCookie('cookiebarshown');
+
+            window.g_isTargetingEnabled =
+                (cp && cp.length === 3 && cp[2] === '1') ||
+                (!bStrictCookies && !cp && isCookieBarShown);
+
+            window.g_isPerformanceEnabled =
+                (cp && cp.length === 3 && cp[0] === '1') ||
+                (!bStrictCookies && !cp && isCookieBarShown);
+
+            if (!cp) {
+                
+                try {
+                    var root = document.getElementsByTagName('html')[0];
+                    
+                    if (root.classList) {
+                        if (bStrictCookies) {
+                            root.classList.add('show-cookie-bar', 'show-cookie-bar-full');
+                        } else {
+                            root.classList.add('show-cookie-bar', 'show-cookie-bar-standard');
+                        }
+                    }
+                } catch (e) {
+                    
+                }
+            }
+        })();
+    </script>
+
+    <link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" /><link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" /><link rel="icon" href="/favicon-96x96.png" type="image/png" sizes="96x96" /><link rel="start" title="A to Z Materials" href="/" /><link type="application/rss+xml" rel="alternate" title="A to Z Materials (RSS)" href="https://www.azom.com/syndication.axd?format=rss" /><link type="application/atom+xml" rel="alternate" title="A to Z Materials (ATOM)" href="https://www.azom.com/syndication.axd?format=atom" /><meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<script>
+  window.googleAnalyticsConfig = {
+    'gaCode': 'UA-2148155-3',
+    'optimizeId': 'GTM-NDBVD78',
+    'cookieDomain': 'azom.com'
+  };
+</script>
+<meta name="msvalidate.01" content="F19F0E4C53AF972CB554F2D6E02D6A95" />
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<link type="text/css" rel="stylesheet" href="https://d12oja0ew7x0i8.cloudfront.net/bundles/css/desktop/base?v=4lyV3lbiQ7gjw1JD2JFAXD-BygkPdaKyG9_HqAzxO-c1" />
+
+
+    <script type="text/javascript">
+        //<![CDATA[
+        var sSiteRoot = '/';
+        var isMobileWebsite = false;
+        var isMobileProSupplier = false;
+        
+        //]]>
+    </script>
+
+    
+    <script type="text/javascript">
+
+        (function () {
+            var config = window.googleAnalyticsConfig;
+            if (config) {
+
+                var gtagConfig = {
+                    'anonymize_ip': true,
+                    'cookie_domain': config.cookieDomain
+                };
+
+                if (window.g_isPerformanceEnabled) {
+                    if (config.optimizeId) {
+                        gtagConfig['optimize_id'] = config.optimizeId;
+                    }
+                } else {
+                    gtagConfig['client_storage'] = 'none';
+                    gtagConfig['store_gac'] = false;
+                }
+
+                var a = document.createElement('script');
+                a.type = 'text/javascript';
+                a.async = true;
+                a.src = 'https://www.googletagmanager.com/gtag/js?id=' + config.gaCode;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(a, s);
+
+                window.dataLayer = window.dataLayer || [];
+                window.gtag = function() { dataLayer.push(arguments); };
+                window.gtag('js', new Date());
+                window.gtag('config', config.gaCode, gtagConfig);
+            }
+        })();
+
+    </script>
+
+    
+
+<style type="text/css">
+</style>
+
+<script type="text/javascript">
+    //<![CDATA[
+
+	var PdfReq = {
+		itemType: 'news',
+		itemName: 'Using Sunlight to Produce Important Fuels and Chemicals',
+        languageCode: '',
+		formTitle: 'Using Sunlight to Produce Important Fuels and Chemicals Printable Document (PDF)',
+		itemId: 61023
+	};
+
+	$(function() {
+	    Azom.initPdfReqPage();
+	});
+
+    //]]>
+</script>
+
+
+
+
+    <!-- Add To Home -->
+    
+    <meta name="apple-mobile-web-app-capable" content="no" /><meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+    window._renderedAdSlots = [];
+
+    var g_dfpTargeting = [
+        { k: "site", v: "AZoM" }
+    ];
+
+    
+    g_dfpTargeting.push({ k: "hostname", v: window.location.hostname });
+
+    if (!window.g_isTargetingEnabled) {
+        g_dfpTargeting.push({ k: "npa", v: "yes" });
+    }
+
+    googletag.cmd.push(function () {
+
+        googletag.defineSlot('/21677452523/AZo_728x90_1', [[728, 90]], 'div-gpt-AZo_728x90_1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+googletag.defineSlot('/21677452523/AZo_Desktop_300x250_1', [[300, 250]], 'div-gpt-AZo_Desktop_300x250_1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+
+        if (g_dfpTargeting.length) {
+            for (var t = 0; t < g_dfpTargeting.length; t++) {
+                googletag.pubads().setTargeting(g_dfpTargeting[t].k, g_dfpTargeting[t].v);
+            }
+        }
+
+        
+        
+        if (!window.g_isTargetingEnabled) {
+            googletag.pubads().setRequestNonPersonalizedAds(1);
+            googletag.pubads().setPrivacySettings({
+                'restrictDataProcessing': true
+            });
+        }
+        
+        googletag.pubads().addEventListener('slotRenderEnded', function(e) { if (typeof Azom === 'undefined') { _renderedAdSlots.push(e); } else { Azom.onAdSlotRendered(e); }});
+        
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+
+    });
+
+//]]>
+</script>
+<meta name="apple-mobile-web-app-title" content="Materials" />
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "AZoM.com",
+  "url": "https://www.azom.com/",
+  "logo": "https://www.azom.com/themes/Standard/images/full_site_logo.png",
+  "sameAs": [
+     "https://www.facebook.com/AZoNetwork",
+     "https://twitter.com/AZoM"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.azom.com/",
+  "potentialAction": {
+     "@type": "SearchAction",
+     "target": "https://www.azom.com/search.aspx?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<meta name="description" content="A viable method for achieving solar energy storage and a negative carbon cycle is artificial photosynthesis (AP), which uses sunlight to convert carbon dioxide (CO2) into useful chemicals and fuels." /></head>
+<body class="site-body">
+
+
+    
+
+
+
+    
+        <div id="cookie-notice-bar" class="cookie-notice-bar-standard">
+            <div id="cookie-prompt">
+                <div class="cookie-bar-text">
+                    <p>
+                        We use cookies to enhance your experience. By continuing to browse this site you agree to our use of cookies.
+                        <a class="find-out-more" href="/privacy#cookies" target="_blank">More info</a>.
+                    </p>
+                </div>
+                <ul id="cookie-options">
+                    <li><a onclick="return BlogEngine.onAcceptAllCookiesClick();" id="cookie-accept-link"><span class="icon icon-checkmark"></span><span id="cookie-accept-link-text">Accept</span></a></li>
+                    <li><a onclick="BlogEngine.displayCookieSettings('Cookie Bar');" id="cookie-settings-link"><span id="cookie-settings-link-text">Cookie Settings</span></a></li>
+                </ul>
+            </div>
+        </div>
+    
+    
+
+    <div id="body-wrap">
+
+        <div class="container main-content-right">
+            <form method="post" action="/news.aspx?newsID=61023" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="8mWkVtkSboT06+S9X/Hf1zL0s/sCnChJBhrzTG+803tKcmBpZtCYUgqfnM2144uIi3ZvvIpClI1V5mvdY3/IHfstD/2oTmTDT0tuRRsCupZGLxzNzKyLuvAhevApOomIdYhQKuJkKhAIa4RlzNd7Tz/ThUJosXIfIbE7oHUAwu1tO6ot7QHwQ5t0pBnpeCS8HjgN5wMX3GIKlTVFt4Xd3yZFgVzxa5XsyeVISrM5rjGqV3vaYnpBHbaWtWbStEjNEjtsfMe/eoz1S4Vj3uRGaZqOBdXoTD2HReVjJJr7mGMcR71ZX6VRP4LFozL9tdUqtethT990I9dzQKCPlBterrBX4w0hxWqPniICwYo7vx1pnOs7+7tBf+Xd0TgYIy9wLoXXHp3ybCyQRmRCIzfnWuSYEykCABPucRfUhKsUwac7Ang7Gtw7wky1u8XZAqjvwHmZmlOsztLzejT89uF8Ym/5cA+GgVccyIAQDjCtGVz5dOrK" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA8C29DA" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="tqJqY3IbXXsu9Zlaq6FZ5vha3Z32hRtJKsfBOnIzPyKyCUbMPnhdrrM3wy5XejfmaLahdbO+vVv8rY2/8MCWweJiFCqTNtU6ktVKbhNu7tqHSkSXJpDk9WIbxJPEg6hAb8dJsQ==" />
+
+                <div class='overlay-content-wrapper'>
+                    <div id='social-login-overlay-simple-container'></div>
+                    <div id='social-login-overlay-full-container' class='mfp-with-anim'></div>
+                </div>
+
+                <header>
+                    <a class="skip-link sr-only sr-only-focusable" href="#main">Skip to content</a>
+                    <nav class="main-menu container menu-container">
+
+                        <div class="logo col-sm-2 col-xs-12">
+                            <a href="/">
+                                <img class="img-responsive center-block" src="https://d12oja0ew7x0i8.cloudfront.net/themes/Standard/images/azom_logo_v3.png" alt="AZoM" /></a>
+                        </div>
+
+                        <div class="nav-right col-sm-10 col-xs-12">
+                            <ul class="menu">
+                                <li><a href="/aboutus.aspx">About</a></li>
+                                <li><a href="/materials-news-index.aspx">News</a></li>
+                                <li><a href="/articles.aspx">Articles</a></li>
+                                <li><a href="/materials-engineering-directory.aspx">Directory</a></li>
+                                <li><a href="/materials-equipment-index.aspx">Equipment</a></li>
+                                <li><a href="/materials-videos-index.aspx">Videos</a></li>
+                                <li><a href="/webinars-index.aspx">Webinars</a></li>
+                                <li><a href="/interviews.aspx">Interviews</a></li>
+                                
+                                <li class="hidden-xs"><a class="moremenu">More...</a></li>
+
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/metals">Metals Store</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/materials-journals-index.aspx">Journals</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/engineering-software-index.aspx">Software</a></li>
+                                
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/reports-and-docs-index.aspx">Market Reports</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/book-reviews-index.aspx">Books</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/advertise">Advertise</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/contact.aspx">Contact</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/newsletters">Newsletters</a></li>
+                                <li class="hidden-sm hidden-md hidden-lg"><a href="/search.aspx">Search</a></li>
+                            </ul>
+
+                        <div class="sub-menu col-xs-12" aria-role="nav">
+                            <ul class="mobile-main serif hidden-xs">
+                                <li><a href="/metals">Metals Store</a></li>
+                                <li><a href="/materials-journals-index.aspx">Journals</a></li>
+                                <li><a href="/engineering-software-index.aspx">Software</a></li>
+                                
+                                <li><a href="/reports-and-docs-index.aspx">Market Reports</a></li>
+                                <li><a href="/book-reviews-index.aspx">Books</a></li>
+                                <li><a href="/advertise">Advertise</a></li>
+                                <li><a href="/contact.aspx">Contact</a></li>
+                                <li><a href="/newsletters">Newsletters</a></li>
+                                <li><a href="/search.aspx">Search</a></li>
+                            </ul>
+                        </div>
+
+                            
+                            <div class="col-xs-12 user-menu">
+                                <div class="row">
+                                    <div class="col-sm-5 hidden-xs">
+                                        <a class="an-azonetwork-site" href="/suppliers.aspx?SupplierID=14011"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/an-azonetwork-site.svg" alt="An AZoNetwork Site" width="158" height="16" /></a>
+                                        <div class="top-social-icons">
+                                            <ul class="social">
+                                                <li class="linkedin"><a href="https://www.linkedin.com/showcase/azom.com/" aria-label="AZoM LinkedIn page">
+                                                    <span aria-hidden="true" class="icon-linkedin"></span>
+                                                    <span class="sr-only">LinkedIn</span>
+                                                </a></li>
+                                                <li class="facebook"><a href="https://www.facebook.com/AZoNetwork" aria-label="AZoNetwork Facebook page">
+                                                    <span aria-hidden="true" class="icon-facebook"></span>
+                                                    <span class="sr-only">Facebook</span>
+                                                </a></li>
+                                                <li class="twitter"><a href="https://twitter.com/AZoM" aria-label="AZoM Twitter page">
+                                                    <span aria-hidden="true" class="icon-twitter"></span>
+                                                    <span class="sr-only">Twitter</span>
+                                                </a></li>
+                                                <li class="instagram"><a href="https://www.instagram.com/azomaterials/" aria-label="AZoM Instagram page">
+                                                    <span aria-hidden="true" class="icon-instagram"></span>
+                                                    <span class="sr-only">Instagram</span>
+                                                </a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-7 col-xs-12 menu-top-right">
+
+                                        <div class="user-info">
+                                            <a href="/azoprofile/" class="login-signup"><span>Become a Member</span></a>
+
+                                            <div id='profile-login-content' class='profile-login-content'></div>
+                                            
+                                        </div>
+
+                                        
+                                        <div class="search-input-group input-group">
+
+                                            <span class="icon-search"></span>
+                                            <input aria-labelledby="searchLabel" type="search" id="globalSearchField" class="form-control searchfield" placeholder="Search..." maxlength="200" onfocus="BlogEngine.searchClear('')" onblur="BlogEngine.searchClear('')" onkeypress="return BlogEngine.searchKeyPress(event,'globalSearchField', '', null)" value="" />
+
+                                            <div class="input-group-addon search-btn-wrap">
+                                                <button class="search-btn" onclick="return BlogEngine.search('globalSearchField');" onkeypress="return BlogEngine.search('globalSearchField');">
+                                                    <span aria-hidden="true" class="icon-arrow-right"></span>
+                                                    <span id="searchLabel" class="sr-only">Search</span>
+                                                </button>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <a class="moremenu mobile-menu visible-xs-block">
+                                <span aria-hidden="true" class="icon-list"></span>
+                                <span class="sr-only">Menu</span>
+                            </a>
+
+                        </div>
+
+                    </nav>
+                </header>
+
+                
+                    <div class="clearfix">
+                        
+                        <div class="banner-ad hidden-xs col-sm-12">
+                            <div id="widgetzone_siteVeryTopV3" class="widgetzone clearfix"><section class="widget dfpad clearfix" id="widget95a4b1e0-ad57-4533-a11b-6d064ff825c4"><div id='div-gpt-AZo_728x90_1' class='div-gpt-728x90'>
+<script type='text/javascript'>
+googletag.cmd.push(function(){
+    googletag.display('div-gpt-AZo_728x90_1');
+});
+</script>
+</div>
+
+</section></div>
+                        </div>
+                    </div>
+                
+
+                <main id="main" tabindex="-1" class="main-container col-xs-12 col-md-8">
+
+                    
+
+
+        
+
+
+        
+
+        
+
+
+
+<div style="position:absolute;visibility:hidden;">
+    <div id="pdfReqForm" class="azoForm-dialog azoForm-desktop-container mfp-with-anim">
+        <div class="pdfReq-form-dialog-container-contents"></div>
+    </div>
+</div>
+
+
+<div id="pdfReqFormMobileContainerOnPage" class="azoForm-mobile-container">
+</div>
+
+
+
+        
+            
+            <div class="item-top-bar">
+
+                
+
+                    <div class="postedIn">
+
+                            Posted in
+                             | <a href="/materials-news-index.aspx">News</a> | <a href="/materials-news.aspx?CatID=20">Chemistry</a>
+
+                    </div>
+
+                
+
+            </div>
+        
+
+
+    <div id="widgetzone_NewsAboveTabs" class="widgetzone clearfix"></div>
+
+    
+
+
+    
+
+
+            
+
+<input type="hidden" id="url-to-share" value="https://www.azom.com/news.aspx?newsID=61023"/>
+<div class="share-box">
+    <ul class="showEmailShare">
+        <li class="linkedin">
+            <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.azom.com%2fnews.aspx%3fnewsID%3d61023&amp;title=Using+Sunlight+to+Produce+Important+Fuels+and+Chemicals" title="LinkedIn" data-win-width="520" data-win-height="570" target="_blank">
+                <div class="share-wrapper">
+                    <div aria-hidden="true" class="icon icon-linkedin"></div>
+                    <div class="count count-linkedin"></div>
+                </div>
+            </a>
+        </li>
+        <li class="facebook">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.azom.com%2fnews.aspx%3fnewsID%3d61023" title="Facebook" data-win-width="550" data-win-height="600" target="_blank">
+                <div class="share-wrapper">
+                    <div aria-hidden="true" class="icon icon-facebook"></div>
+                    <div class="count count-facebook"></div>
+                </div>
+            </a>
+        </li>
+        <li class="twitter no-count">
+            <a href="https://twitter.com/share?url=https%3a%2f%2fwww.azom.com%2fnews.aspx%3fnewsID%3d61023&amp;text=Using+Sunlight+to+Produce+Important+Fuels+and+Chemicals" title="Twitter" data-win-width="550" data-win-height="300" target="_blank">
+                <div class="share-wrapper">
+                    <div aria-hidden="true" class="icon icon-twitter"></div>
+                </div>
+            </a>
+        </li>
+        <li class="reddit no-count">
+            <a href="https://www.reddit.com/submit?url=https%3a%2f%2fwww.azom.com%2fnews.aspx%3fnewsID%3d61023" title="Reddit" data-win-width="575" data-win-height="600" target="_blank">
+                <div class="share-wrapper">
+                    <div aria-hidden="true" class="icon icon-reddit"></div>
+                </div>
+            </a>
+        </li>
+        
+        <li class="email no-count">
+            <a href="#" onclick="return Azom.displayShareViaEmail();" title="Email" target="_blank">
+                <div class="share-wrapper">
+                    <div aria-hidden="true" class="icon icon-envelop"></div>
+                </div>
+            </a>
+        </li>
+        
+    </ul>
+</div>
+
+
+
+            <div class='item-body content-item-body clearfix'>
+
+				
+
+                
+
+                <h1 id="ctl00_cphBody_h1Title" itemprop="headline">Using Sunlight to Produce Important Fuels and Chemicals</h1>
+
+                
+    <div class="in-content-ctas in-content-ctas-top cta-btns-cols-1">
+        <ul>
+            <li class="cta-printpdf"><a href="#" class="request-pdf-download" onclick="return false;"><span class="cta-text"><span>Download</span> <span>PDF Copy</span></span></a></li>
+        </ul>
+    </div>
+
+
+
+                <div id="ctl00_cphBody_divText" itemprop="articleBody" class="clearfix"><div class="article-meta article-meta-byline"><span class="article-meta-contents"><span class="article-meta-date">Mar 20 2023</span><span class="article-meta-reviewer">Reviewed by <a href="/authors/bethan-davies">Bethan Davies</a></span></span></div><span itemprop="author" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="AZoM" /><meta itemprop="url" content="https://www.azom.com/" /></span>
+<p><strong>A viable method for achieving solar energy storage and a negative carbon cycle is artificial photosynthesis (AP), which uses sunlight to convert carbon dioxide (CO<sub>2</sub>) into useful chemicals and fuels.</strong></p>
+
+<figure class="content-item-img"><span itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img alt="Using Sunlight to Produce Important Fuels and Chemicals." src="https://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_61023_1679307327688142.jpg" srcset="https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/1632/src/images/news/ImageForNews_61023_1679307327688142.jpg 1632w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/1550/src/images/news/ImageForNews_61023_1679307327688142.jpg 1550w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/1350/src/images/news/ImageForNews_61023_1679307327688142.jpg 1350w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/1150/src/images/news/ImageForNews_61023_1679307327688142.jpg 1150w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/950/src/images/news/ImageForNews_61023_1679307327688142.jpg 950w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/750/src/images/news/ImageForNews_61023_1679307327688142.jpg 750w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/550/src/images/news/ImageForNews_61023_1679307327688142.jpg 550w, https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/450/src/images/news/ImageForNews_61023_1679307327688142.jpg 450w" sizes="(min-width: 1200px) 673px, (min-width: 1090px) 667px, (min-width: 992px) calc(66.6vw - 60px), (min-width: 480px) calc(100vw - 40px), calc(100vw - 30px)" width="1632" height="1414" /><meta itemprop="url" content="https://d12oja0ew7x0i8.cloudfront.net/images/news/ImageForNews_61023_1679307327688142.jpg" /><meta itemprop="width" content="1632" /><meta itemprop="height" content="1414" /><meta itemprop="caption" content="Using Sunlight to Produce Important Fuels and Chemicals" /><span itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://d12oja0ew7x0i8.cloudfront.net/image-handler/ts/20230320061539/ri/200/src/images/news/ImageForNews_61023_1679307327688142.jpg" /><meta itemprop="width" content="200" /><meta itemprop="height" content="173" /></span></span>
+<figcaption class="content-item-img-caption"><span style="color:#4e5f70;">Schematic diagram for highly selective photoelectroreduction of carbon dioxide over graphene/silicon carbide composites. Image Credit: Shanghai Advanced Research Institute</span></figcaption>
+</figure>
+
+<div class="promoted-item promoted-item-embed">   <h3>Advanced Materials eBook</h3>    <div class="clearfix">       <img class="promoted-item-image" src="https://d12oja0ew7x0i8.cloudfront.net/images/industryfocuses/IndustryFocusImage_1_16616218842904354.png" alt="Advanced Materials Industry Focus eBook">       <div class="promoted-item-body-text">Compilation of the top interviews, articles, and news in the last year.</div>    </div>   <div class="promoted-item-btn">       <a href="/industry-focus/advanced-materials-ebook?src=content-embed" class="btn btn-primary">Download a free copy</a>   </div></div><p>However,&nbsp;artificial photosynthesis is quite complex and involves numerous steps. Moreover, it is difficult to selectively synthesize target compounds with C&ndash;C bonds as several AP intermediates can provide thermodynamically favorable C<sub>1</sub> products.</p>
+
+<p>Graphene/silicon carbide (SiC) catalysts have recently been created by a research team led by Prof. Wei Chen and Prof. Wei Wei from the Shanghai Advanced Research Institute (SARI) of the <a href="https://english.cas.cn/" target="_blank" rel="noopener">Chinese Academy of Sciences</a> for efficient CO<sub>2</sub> photoelectroreduction to ethanol (C<sub>2</sub>H<sub>5</sub>OH).</p>
+
+<p><em>Angewandte Chemie International Edition</em> published the findings on February 14<sup>th</sup>, 2023.</p>
+
+<p>The suggested composite catalyst, which consists of a few-layer graphene overlayer, an interfacial layer (IL), and a SiC substrate, can assist in achieving precise control of the active intermediates for C&ndash;C coupling.</p>
+
+<p>An ideal IL structure makes it simple to transmit photogenerated electrons from the SiC substrate to the active sites on the graphene overlayer. Due to their strong adsorption at the reaction&rsquo;s active sites and the high electron density of the graphene surface, reaction intermediates can then be effectively created and maintained.</p>
+
+<p>The researchers discovered that CH<sub>3</sub>OH production was reduced significantly in favor of C&ndash;C coupling. Under simulated solar irradiation with a modest bias (&ndash;50 mV bias vs. Ag/AgCl) and ambient conditions, C<sub>2</sub>H<sub>5</sub>OH was exclusively produced with a selectivity of &gt;99% and a CO<sub>2</sub> conversion rate of 17.1mmol g<sub>cat</sub><sup>&ndash;1</sup>h<sup>&ndash;1</sup>.</p>
+
+<p>Therefore, the optimal catalyst&rsquo;s photoelectrocatalytic performance in creating C<sub>2</sub> products from CO<sub>2</sub> was at least two orders of magnitude greater than that of the most advanced AP catalysts.</p>
+
+<h2><strong>Journal Reference:</strong></h2>
+
+<p>Feng, G., <em>et al.</em> (2023) Highly Selective Photoelectroreduction of Carbon Dioxide to Ethanol over Graphene/Silicon Carbide Composites. <em>Angewandte Chemie International Edition</em>. <a href="https://doi.org/10.1002/anie.202218664" target="_blank" rel="noopener">doi:10.1002/anie.202218664</a>.</p>
+
+<p>Source: <a href="https://english.cas.cn/" target="_blank" rel="noopener">https://english.cas.cn/</a></p></div>
+
+                
+
+                
+    <div class="in-content-ctas in-content-ctas-bottom cta-btns-cols-1">
+        <ul>
+            <li class="cta-printpdf"><a href="#" class="request-pdf-download" onclick="return false;"><span class="cta-text"><span>Download</span> <span>PDF Copy</span></span></a></li>
+        </ul>
+    </div>
+
+
+
+                
+
+                
+
+            </div>
+
+            
+
+
+	<script type="text/javascript">
+		//<![CDATA[
+
+		$(function() {
+            BlogEngine.initContentImages('.content-item-img');
+		});
+
+		//]]>
+	</script>
+
+    
+
+    
+
+    <script type='text/javascript'>
+    //<![CDATA[
+
+        var commentPageData = {
+            contentType: 'News',
+            contentId: 61023,
+            languageCode: '',
+            siteName: 'AZoM.com',
+            publicLabel: 'Public Comment',
+            privateLabel: 'Private Feedback to AZoM.com',
+            identityBoxTopText: 'Leave your feedback'
+            
+        };
+
+        $(function() { BlogEngine.initComments(); });
+
+    //]]>
+    </script>
+
+    <div id="commentblock">
+
+        <h2 id='comments-header-bar' style="display:none;">Comments</h2>
+
+        <div id="commentsBlockWrapper" style="display:none;">
+            
+
+            <div id='comments-wrap'>
+                
+            </div>
+
+        </div>
+
+        
+
+
+        <div id='comment-bottom-wrap'>
+
+            <h2>Tell Us What You Think</h2>
+            <div>
+
+                <p class='first last'>
+                    Do you have a review, update or anything you would like to add to this news story?
+                </p>
+
+                <div id="comment-form-bottom-holder">
+                    <div id="comment-form">
+
+	                    <div class="commentForm">
+
+		                    <input type="hidden" name="ctl00$cphBody$commentWidget$hiddenReplyTo" id="hiddenReplyTo" />
+		                    <p id="cancelReply" style="display:none;"><a href="javascript:void(0);" onclick="BlogEngine.cancelReply();">Cancel reply to comment</a></p>
+
+                            <div id="comment-status"></div>
+                            
+
+              <div class='azoprofile-identity-box-wrap'>
+                  <div class='azoprofile-identity-box-pic'>
+                      <img alt='' src='/pics/anonymous_avatar.gif' />
+                  </div>
+                  <div class='azoprofile-identity-box-right'>
+                      <div id='azoprofile-identity-box-top'>Leave your feedback</div>
+                      <div class='azoprofile-identity-box-login-wrap'>
+                          <a href='#' class='azoprofile-identity-box-login-btn'>
+                            <span class='azoprofile-identity-box-login-text'>Login</span>
+                            <span class='azoprofile-identity-box-provider-icons'>&nbsp;</span>
+                            <span class='azoprofile-identity-box-button'><span class='azoprofile-identity-box-button-arrow'>&nbsp;</span></span>
+                          </a>
+                      </div>
+                      <div class='azoprofile-identity-box-loggedin'>
+                          <div class='azoprofile-identity-box-name'></div>
+                          <div class='azoprofile-identity-box-logout'><a href='#' onclick='return AZoProfileUtils.onAZoProfileBoxIdentityLogout();'>(Logout)</a></div>
+                      </div>
+                  </div>
+              </div>
+              <div style='clear:both;'></div>
+
+	                        <div id='commentCompose'>
+		                        <textarea name="ctl00$cphBody$commentWidget$tbCommentBody" rows="2" cols="20" id="tbCommentBody" aria-labelledby="azoprofile-identity-box-top"></textarea>
+	                        </div>
+                            <div class='comment-bottom-actions'>
+                                <fieldset class='comment-public-options'>
+                                    <legend class="sr-only">Your comment type</legend>
+                                    <div class='comment-public-option'>
+                                        <input type="radio" name='comment_public_status' id='comment-make-public' checked='checked' />
+                                        <label id='comment-make-public-label' for='comment-make-public'>Public Comment</label>
+                                    </div>
+                                    <div class='comment-public-option'>
+                                        <input type="radio" name='comment_public_status' id='comment-make-private' />
+                                        <label id='comment-make-private-label' for='comment-make-private'>Private Feedback to AZoM.com</label>
+                                    </div>
+                                    
+                                </fieldset>
+                                <a id="post-comment" href="#" onclick="return false;" class="comment-btn">Submit</a>
+                            </div>
+
+                            <div style="clear:both;"></div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+    <div id="widgetzone_NewsBelowTabs" class="widgetzone clearfix"></div>
+
+    <div id="widgetzone_NewsDetailBottom" class="widgetzone clearfix"></div>
+
+
+
+
+<div style="display:none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://www.azom.com/themes/Standard/images/amp_site_logo.jpg" />
+        <meta itemprop="width" content="404" />
+        <meta itemprop="height" content="60" />
+    </div>
+    <meta itemprop="name" content="AZoM" />
+    <meta itemprop="url" content="https://www.azom.com/" />
+</div>
+
+
+
+                    
+                </main>
+
+                
+                    <div class="sidebar-container main-sidebar-container col-xs-12 col-md-4">
+
+                        
+<div id="widgetzone_CommonSidebarTopV3" class="widgetzone clearfix"></div>
+
+        
+            <section class="tab-container col-xs-12">
+                <ul class="nav nav-tabs nav-sidebar-tabs" data-tabs="tabs">
+                    <li class="active"><a href="#tabs-1" data-toggle="tabs">Latest<br />interviews</a></li>
+                    <li><a href="#tabs-2" data-toggle="tabs">Featured<br />equipment</a></li>
+                    <li><a href="#tabs-3" data-toggle="tabs">Trending<br />stories</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div id="tabs-1" class="tab-pane active interviews-container col-xs-12">
+                      <div id="widgetzone_CommonTabsTab1V3" class="widgetzone clearfix"><section class="widget latestinterviews clearfix" id="widgeteeecd4c4-b1ad-4008-a502-7c38272c65c7"><article class="article-size-3 interview col-xs-12">
+<a href="/article.aspx?ArticleID=22492"><div class="article-title col-xs-9 col-md-8">
+<h3>The Importance of Weighing in Battery Cell Development</h3>
+<p class="hidden-sm">Mitesh Chhana, Dr. Martin Thomas &amp; Anthony Chalou</p>
+<p class="visible-sm-block">In this interview, AZoM talks to Sartorius and Anton Paar about battery cell development and the important role that weighing plays in this.</p>
+</div>
+<div class="article-thumb col-xs-3 col-md-4">
+<img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Thumbs/InterviewImageForArticle_22492_16783524127763696.png" alt="The Importance of Weighing in Battery Cell Development" />
+</div>
+</a>
+</article>
+
+<article class="article-size-3 interview col-xs-12">
+<a href="/article.aspx?ArticleID=22555"><div class="article-title col-xs-9 col-md-8">
+<h3>IBioIC on Manufacturing Chemicals with Bio-Based Processes</h3>
+<p class="hidden-sm">Russell Clarke</p>
+<p class="visible-sm-block">In an interview ahead of ChemUK 2023, AZoM spoke with Russell Clarke from IBioIC about the feature session they are hosting at the show.</p>
+</div>
+<div class="article-thumb col-xs-3 col-md-4">
+<img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Thumbs/InterviewImageForArticle_22555_16790600737722440.png" alt="IBioIC on Manufacturing Chemicals with Bio-Based Processes" />
+</div>
+</a>
+</article>
+
+<article class="article-size-3 interview col-xs-12">
+<a href="/article.aspx?ArticleID=22277"><div class="article-title col-xs-9 col-md-8">
+<h3>Why it is Important to Measure the Uncertainty of Spark Measurements</h3>
+<p class="hidden-sm">Wilhelm Sanders, Thomas Asam &amp; Dr. Ulrike Corradi</p>
+<p class="visible-sm-block">This interview highlights the importance of measuring the uncertainty of spark measurements.</p>
+</div>
+<div class="article-thumb col-xs-3 col-md-4">
+<img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Thumbs/InterviewImageForArticle_22277_16784409502858414.png" alt="Why it is Important to Measure the Uncertainty of Spark Measurements" />
+</div>
+</a>
+</article>
+
+</section></div>
+
+                      
+
+                    </div><!-- tab 1 -->
+                    <div id="tabs-2" class="tab-pane equipment-container col-xs-12">
+                      <div id="widgetzone_CommonTabsTab2V3" class="widgetzone clearfix"><section class="widget recentequipment clearfix" id="widgetda9a3875-58fb-43a8-b9f1-79de1611580b"><article class="article-size-3 equipment col-xs-12"><div class="article-thumb col-xs-3 col-md-4"><a href="/equipment-details.aspx?EquipID=8515"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/equipments/EquipmentThumbImage_8515_16783395128847254.jpg" alt="DXR3 Flex Raman Spectrometer" /></a></div><div class="article-title col-xs-9 col-md-8"><h3><a href="/equipment-details.aspx?EquipID=8515">DXR3 Flex Raman Spectrometer</a></h3><p class="visible-sm-block">The research-grade Thermo Scientific™ DXR3 Flex Raman Spectrometer is specifically designed for integration with other analytical techniques.</p></div><div class="article-meta col-xs-12">  <span class="article-meta-author">    From <a href="/suppliers.aspx?SupplierID=13161">Thermo Fisher Scientific – Materials &amp; Structural Analysis</a>  </span></div></article><article class="article-size-3 equipment col-xs-12"><div class="article-thumb col-xs-3 col-md-4"><a href="/equipment-details.aspx?EquipID=8512"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/equipments/EquipmentThumbImage_8512_16778303226412473.png" alt="IR5 Fourier Transform Infrared (FTIR) Spectrometer" /></a></div><div class="article-title col-xs-9 col-md-8"><h3><a href="/equipment-details.aspx?EquipID=8512">IR5 Fourier Transform Infrared (FTIR) Spectrometer</a></h3><p class="visible-sm-block">The IR5 is a high-performance benchtop Fourier Transform Infrared (FTIR) spectrometer from Edinburgh Instruments.</p></div><div class="article-meta col-xs-12">  <span class="article-meta-author">    From <a href="/suppliers.aspx?SupplierID=12014">Edinburgh Instruments</a>  </span></div></article><article class="article-size-3 equipment col-xs-12"><div class="article-thumb col-xs-3 col-md-4"><a href="/equipment-details.aspx?EquipID=8511"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/equipments/EquipmentThumbImage_8511_16776448022153904.jpg" alt="Elemental Analysis at the Nanoscale with EDS Detectors for TEM" /></a></div><div class="article-title col-xs-9 col-md-8"><h3><a href="/equipment-details.aspx?EquipID=8511">Elemental Analysis at the Nanoscale with EDS Detectors for TEM</a></h3><p class="visible-sm-block">This product profile outlines the elemental analysis at nanoscale measurements with the EDS Detectors for TEM.</p></div><div class="article-meta col-xs-12">  <span class="article-meta-author">    From <a href="/suppliers.aspx?SupplierID=12707">Bruker Nano Analytics</a>  </span></div></article>
+</section></div>
+
+                      
+                    </div><!-- tab 2 -->
+
+                    <div id="tabs-3" class="tab-pane trending-container col-xs-12">
+                        <div id="widgetzone_CommonTabsTab3V3" class="widgetzone clearfix"><section class="widget mostpopularcontent clearfix" id="widgetc353d2f6-857a-4587-bc10-d8b66821a850"><article class="article-size-3 col-xs-12"><div class="article-title col-xs-12 mpc-item"><h3><span class="mpc-rank">1</span><a href="/news.aspx?newsID=60978">Revolutionary Composite Tech Brought to Aerospace Engineering</a></h3></div></article><article class="article-size-3 col-xs-12"><div class="article-title col-xs-12 mpc-item"><h3><span class="mpc-rank">2</span><a href="/news.aspx?newsID=60989">A Major Step in 3D Laser Printed Materials for Medical Devices</a></h3></div></article><article class="article-size-3 col-xs-12"><div class="article-title col-xs-12 mpc-item"><h3><span class="mpc-rank">3</span><a href="/news.aspx?newsID=60988">Using “Crab Carbon” to Create Battery Anode Materials</a></h3></div></article><article class="article-size-3 col-xs-12"><div class="article-title col-xs-12 mpc-item"><h3><span class="mpc-rank">4</span><a href="/news.aspx?newsID=60959">A New Generation of Lithium-Ion Batteries Developed</a></h3></div></article><article class="article-size-3 col-xs-12"><div class="article-title col-xs-12 mpc-item"><h3><span class="mpc-rank">5</span><a href="/news.aspx?newsID=61023">Using Sunlight to Produce Important Fuels and Chemicals</a></h3></div></article><article class="article-size-3 col-xs-12"><div class="article-title col-xs-12 mpc-item"><h3><span class="mpc-rank">6</span><a href="/news.aspx?newsID=60993">Development of Piezoelectric Materials Simplified by New Ideal Protocol</a></h3></div></article></section></div>
+
+
+                        
+
+                    </div><!-- tab 3 -->
+                </div><!-- tab-content -->
+            </section>
+        
+
+
+        <div id="widgetzone_CommonSidebarBottomV3" class="widgetzone clearfix"><section class="widget dfpad clearfix" id="widget786b0e5f-95a5-4267-9df7-04d1fa6d81c1"><div id='div-gpt-AZo_Desktop_300x250_1' class='div-gpt-300x250'>
+<script type='text/javascript'>
+googletag.cmd.push(function(){
+    googletag.display('div-gpt-AZo_Desktop_300x250_1');
+});
+</script>
+</div>
+
+</section><section class="widget recentarticles clearfix sidebar-sponsored-content col-xs-12" id="widget0ec5c6ec-572a-492a-b909-6884dd5f63ec"><h2 class="widget-top">Sponsored Content</h2>
+
+            <article class="article-size-3 col-xs-12">
+                <div class="article-title col-xs-12">
+                  <h3><a href="/article.aspx?ArticleID=22542">How to Achieve Successful Tire Leasing</a></h3>
+                </div>
+                <div class="article-meta col-xs-12">
+                  <span class="article-meta-author">
+                        From <a href="/suppliers.aspx?SupplierID=16263">Tough Tech</a>
+                  </span>
+                  <span class="article-meta-date">
+                    17 Mar 2023
+                  </span>
+                </div>
+            </article>
+
+        
+
+
+            <article class="article-size-3 col-xs-12">
+                <div class="article-title col-xs-12">
+                  <h3><a href="/article.aspx?ArticleID=20711">Understanding Coaxial Feedthroughs for Coupling Signals into and out of Vacuum</a></h3>
+                </div>
+                <div class="article-meta col-xs-12">
+                  <span class="article-meta-author">
+                        From <a href="/suppliers.aspx?SupplierID=12378">Allectra Limited</a>
+                  </span>
+                  <span class="article-meta-date">
+                    15 Mar 2023
+                  </span>
+                </div>
+            </article>
+
+        
+
+
+            <article class="article-size-3 col-xs-12">
+                <div class="article-title col-xs-12">
+                  <h3><a href="/article.aspx?ArticleID=22476">Transporting Highly Toxic Chemicals for Semiconductor Manufacturing</a></h3>
+                </div>
+                <div class="article-meta col-xs-12">
+                  <span class="article-meta-author">
+                        From <a href="/suppliers.aspx?SupplierID=15475">Technetics Group</a>
+                  </span>
+                  <span class="article-meta-date">
+                    14 Mar 2023
+                  </span>
+                </div>
+            </article>
+
+        
+
+
+            <article class="article-size-3 col-xs-12">
+                <div class="article-title col-xs-12">
+                  <h3><a href="/article.aspx?ArticleID=22516">The Benefits of High Mass Resolution for Food Research</a></h3>
+                </div>
+                <div class="article-meta col-xs-12">
+                  <span class="article-meta-author">
+                        From <a href="/suppliers.aspx?SupplierID=12748">IONICON Analytik</a>
+                  </span>
+                  <span class="article-meta-date">
+                    14 Mar 2023
+                  </span>
+                </div>
+            </article>
+
+        
+
+
+</section><section class="widget featuredarticles clearfix" id="widget8f741b60-f642-4442-a761-9f8b6d30fdb7"><h2 class="widget-top">Editorial Highlights</h2><article class="article-size-3 col-xs-12"><div class="article-thumb col-xs-4 col-md-5"><a href="/article.aspx?ArticleID=22111"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Thumbs/ThumbForArticle_22111_16661676516472069.jpg" alt="The Current State of the Global Semiconductor Market" /></a></div><div class="article-title col-xs-8 col-md-7"><h3><a href="/article.aspx?ArticleID=22111">The Current State of the Global Semiconductor Market</a></h3><p class="visible-sm-block">The global semiconductor market has entered an exciting period. Demand for chip technology is both driving the industry as well as hindering it, with current chip shortages predicted to last for some time. Current trends will likely shape the future of the industry, which is set to continue to show</p></div></article><article class="article-size-3 col-xs-12"><div class="article-thumb col-xs-4 col-md-5"><a href="/article.aspx?ArticleID=22120"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Thumbs/ThumbForArticle_22120_16666140932442294.jpg" alt="How are Graphene Batteries Made?" /></a></div><div class="article-title col-xs-8 col-md-7"><h3><a href="/article.aspx?ArticleID=22120">How are Graphene Batteries Made?</a></h3><p class="visible-sm-block">The primary distinction between graphene-based batteries and solid-state batteries lies in the composition of either electrode. Although the cathode is commonly changed, carbon allotropes can also be employed in fabricating anodes.</p></div></article><article class="article-size-3 col-xs-12"><div class="article-thumb col-xs-4 col-md-5"><a href="/article.aspx?ArticleID=22102"><img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Thumbs/ThumbForArticle_22102_16651501658033272.jpg" alt="What Role Will The IoT Play In The Electric Vehicle Industry?" /></a></div><div class="article-title col-xs-8 col-md-7"><h3><a href="/article.aspx?ArticleID=22102">What Role Will The IoT Play In The Electric Vehicle Industry?</a></h3><p class="visible-sm-block">In recent years, the IoT is rapidly being introduced into almost all sectors, but it has particular importance in the EV industry.</p></div></article></section></div>
+
+
+        
+        
+
+
+
+    
+
+    
+
+<script type="text/javascript">
+    $(function () {
+        Azom.wireNewsletterPreviews();
+    });
+</script>
+
+
+    <script type="text/javascript">
+        $(function () {
+            BlogEngine.initFixedPosition('#newsletter-content', '#newsletter-content-wrap', '.sidebar-container', 'main');
+        });
+    </script>
+
+
+
+        <div id="newsletter-content-wrap">
+            <section id="newsletter-content" class="clearfix">
+                <h2>Newsletters you may be <span>interested in</span></h2>
+                <ul>
+                    
+        <li class="newsletter-widget-item newsletter-subscribe-item col-xs-12" data-include-subscribe-button="true" data-newsletter-id="212">
+            
+            <div class="newsletter-icon-box col-xs-4 col-md-4">
+                <a href="/newsletters">
+                    <img id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_ctrl0_imgThumbnail" src="https://www.azonetwork.com/newsletters/icons/3.png" alt="Clean Technology" /></a>
+            </div>
+            <div class="newsletter-item-name col-xs-8 col-md-8">
+                <a href="/newsletters">Clean Technology</a>
+                
+                    <div class="newsletter-item-preview">
+                        (<a id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_ctrl0_hypPreview" class="newsletter-preview-link" onclick="return false;" aria-label="Subscribe or Preview Clean Technology Newsletter" href="https://www.azonetwork.com/newsletters/webview/?ppnid=212" target="_blank">Subscribe or Preview</a>)
+                    </div>
+                
+            </div>
+        </li>
+    
+        <li class="newsletter-widget-item newsletter-subscribe-item col-xs-12" data-include-subscribe-button="true" data-newsletter-id="16">
+            
+            <div class="newsletter-icon-box col-xs-4 col-md-4">
+                <a href="/newsletters">
+                    <img id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_ctrl1_imgThumbnail" src="https://www.azonetwork.com/newsletters/icons/composites-icon.jpg" alt="Composites" /></a>
+            </div>
+            <div class="newsletter-item-name col-xs-8 col-md-8">
+                <a href="/newsletters">Composites</a>
+                
+                    <div class="newsletter-item-preview">
+                        (<a id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_ctrl1_hypPreview" class="newsletter-preview-link" onclick="return false;" aria-label="Subscribe or Preview Composites Newsletter" href="https://www.azonetwork.com/newsletters/webview/?ppnid=16" target="_blank">Subscribe or Preview</a>)
+                    </div>
+                
+            </div>
+        </li>
+    
+        <li class="newsletter-widget-item newsletter-subscribe-item col-xs-12" data-include-subscribe-button="true" data-newsletter-id="183">
+            
+            <div class="newsletter-icon-box col-xs-4 col-md-4">
+                <a href="/newsletters">
+                    <img id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_ctrl2_imgThumbnail" src="https://www.azonetwork.com/newsletters/icons/energystorage.png" alt="Energy Storage Technologies" /></a>
+            </div>
+            <div class="newsletter-item-name col-xs-8 col-md-8">
+                <a href="/newsletters">Energy Storage Technologies</a>
+                
+                    <div class="newsletter-item-preview">
+                        (<a id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_ctrl2_hypPreview" class="newsletter-preview-link" onclick="return false;" aria-label="Subscribe or Preview Energy Storage Technologies Newsletter" href="https://www.azonetwork.com/newsletters/webview/?ppnid=183" target="_blank">Subscribe or Preview</a>)
+                    </div>
+                
+            </div>
+        </li>
+    
+                </ul>
+                <div class="footer">
+                    <a id="ctl00_cphRightBottom_ucNewsletterWidget_lvNewsletters_hypSeeAllLink" href="/newsletters">See all Newsletters &raquo;</a>
+                </div>
+            </section>
+        </div>
+    
+
+
+                    </div>
+                
+
+               
+            
+
+
+ <script type="text/javascript"> 
+ //<![CDATA[ 
+ $(function() {  Azom.pushAnalyticsEvent([Encoder.htmlDecode('Industry Focus eBook Promotion'), Encoder.htmlDecode('Impression location: Content. Competition: Graphene (Secondary)'), Encoder.htmlDecode('Advanced Materials. Relevance: Secondary')]);  }); 
+ //]]> 
+ </script> 
+</form>
+        </div><!-- container -->
+
+        
+            
+            <div class="banner-ad bottom-ad hidden-xs col-sm-12">
+                <div id="widgetzone_siteVeryBottomV3" class="widgetzone clearfix"></div>
+            </div>
+        
+
+        <footer class="footer col-xs-12">
+            <div class="row footer-top-row">
+                <div class="container footer-container">
+                    <div class="col-xs-12 col-sm-5 azosites-menu-wrap">
+
+                        <div class="azosites-menu">
+                            <h3>Other Sites from AZoNetwork</h3>
+                            <div class="azosites-menu-logos">
+                                <ul class="col-xs-6">
+                                    <li><a href="https://www.azonano.com/" rel="nofollow">AZoNano</a></li>
+                                    <li><a href="https://www.azorobotics.com/" rel="nofollow">AZoRobotics</a></li>
+                                    <li><a href="https://www.azocleantech.com/" rel="nofollow">AZoCleantech</a></li>
+                                    <li><a href="https://www.azooptics.com/" rel="nofollow">AZoOptics</a></li>
+                                    <li><a href="https://www.azobuild.com/" rel="nofollow">AZoBuild</a></li>
+                                    
+                                </ul>
+                                <ul class="col-xs-6">
+                                    <li><a href="https://www.azomining.com/" rel="nofollow">AZoMining</a></li>
+                                    <li><a href="https://www.azosensors.com/" rel="nofollow">AZoSensors</a></li>
+                                    <li><a href="https://www.azoquantum.com/" rel="nofollow">AZoQuantum</a></li>
+                                    <li><a href="https://www.news-medical.net/" rel="nofollow">News Medical</a></li>
+                                    <li><a href="https://www.news-medical.net/life-sciences" rel="nofollow">Life Sciences</a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-7 footer-menu">
+                        <h3>Useful Links</h3>
+                        <nav class="row">
+                            <ul class="col-xs-6 col-ms-4 col-sm-4">
+                                <li><a href="/materials-news-index.aspx">News</a></li>
+                                <li><a href="/articles.aspx">Articles</a></li>
+                                <li><a href="/materials-engineering-directory.aspx">Directory</a></li>
+                                <li><a href="/materials-equipment-index.aspx">Equipment</a></li>
+                                <li><a href="/book-reviews-index.aspx">Books</a></li>
+                                <li><a href="/materials-videos-index.aspx">Videos</a></li>
+                                <li><a href="/events/events.aspx">Events</a></li>
+                                <li><a href="/metals">Metals Store</a></li>
+                                <li><a href="/materials-journals-index.aspx">Journals</a></li>
+                                <li><a href="/engineering-software-index.aspx">Software</a></li>
+                            </ul>
+                            <ul class="col-xs-6 col-ms-4 col-sm-4">
+                                
+                                <li><a href="/webinars-index.aspx">Webinars</a></li>
+                                <li><a href="/interviews.aspx">Interviews</a></li>
+                                <li><a href="/reports-and-docs-index.aspx">Market Reports</a></li>
+                                <li><a href="/materials.aspx">Materials</a></li>
+                                <li><a href="/Applications.aspx">Applications</a></li>
+                                <li><a href="/Industries.aspx">Industries</a></li>
+                                <li><a href="/azojomo.aspx">AZojomo</a></li>
+                                <li><a href="/podcast-reviews-index.aspx">Podcasts</a></li>
+                                <li><a href="/experts-index.aspx">Experts</a></li>
+                                <li><a href="/team.aspx">The Team</a></li>
+                            </ul>
+                            <ul class="col-xs-6 col-ms-4 col-sm-4">
+                                <li class="search-page"><a href="/search.aspx">Search</a></li>
+                                <li><a href="/azoprofile/" class="login-signup">Become a Member</a></li>
+                                <li><a href="/newsletters/">Newsletters</a></li>
+                                <li><a href="/aboutus.aspx">About</a></li>
+                                <li><a href="/contact.aspx">Contact</a></li>
+                                <li><a href="/faqs.aspx">Help/FAQs</a></li>
+                                <li><a href="/advertise">Advertise</a></li>
+                                <li><a href="/terms">Terms &amp; Conditions</a></li>
+                                <li><a href="/privacy">Privacy &amp; Cookie Policy</a></li>
+                                <li><a href="/sitemap.axd">Sitemap</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-matter col-xs-12">
+                <div class="container footer-container">
+
+                    <div class="topLink">
+                        <a href="#body-wrap">back to top <span class="icon-arrow-up"></span></a>
+                    </div>
+                    <div class="center-block logo col-sm-3 col-xs-12">
+                        <img src="https://d12oja0ew7x0i8.cloudfront.net/themes/Standard/images/azom_logo_v3.png" alt="AZoM" />
+                    </div>
+
+                    <div class="col-sm-9 col-xs-12 footer-matter-right">
+
+                        <ul class="social">
+                            <li>
+                                <a href="https://www.linkedin.com/showcase/azom.com/" aria-label="AZoM LinkedIn page">
+                                    <span aria-hidden="true" class="icon-linkedin2"></span>
+                                    <span class="sr-only">LinkedIn</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/AZoNetwork" aria-label="AZoNetwork Facebook page">
+                                    <span aria-hidden="true" class="icon-facebook"></span>
+                                    <span class="sr-only">Facebook</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/AZoM" aria-label="AZoM Twitter page">
+                                    <span aria-hidden="true" class="icon-twitter"></span>
+                                    <span class="sr-only">Twitter</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/azomaterials/" aria-label="AZoM Instagram page">
+                                    <span aria-hidden="true" class="icon-instagram"></span>
+                                    <span class="sr-only">Instagram</span>
+                                </a>
+                            </li>
+                        </ul>
+
+                        <div class="truste-privacy-seal">
+                            <a href="//privacy.truste.com/privacy-seal/validation?rid=80814776-9892-4bc0-a905-50180d9d0296" target="_blank">
+                                <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=80814776-9892-4bc0-a905-50180d9d0296" alt="TRUSTe" /></a>
+                        </div>
+
+                        <div class="footer-matter-right-contents">
+                            <p>AZoM.com - An AZoNetwork Site</p>
+                            <p>Owned and operated by AZoNetwork, &copy; 2000-2023</p>
+                        </div>
+                    </div>
+
+                    <div class="footer-update-privacy-preferences">
+                        <a onclick="BlogEngine.displayCookieSettings('Footer Link');">
+                            <span class="update-privacy-preferences-lock-icon"></span>
+                            Update Your Privacy Preferences
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+
+        </footer>
+        <!-- footer end -->
+
+
+    </div>
+
+    <script type="text/javascript" src="https://d12oja0ew7x0i8.cloudfront.net/bundles/js/desktop/base?v=-bBcECLwQUlm5jkqqtW9BAA-QQsYqGP_o-LWNgUqIsM1"></script>
+
+
+    <div class='overlay-content-wrapper'>
+
+        <!-- rfq start -->
+        
+
+        <div style="position:absolute;visibility:hidden;">
+            <div id="rfqForm" class="azoForm-dialog azoForm-desktop-container mfp-with-anim">
+                <div class="rfq-form-dialog-container-contents"></div>
+            </div>
+        </div>
+        <div id="rfqFormMobileContainerOnPage" class="azoForm-mobile-container"></div>
+        <!-- rfq end -->
+
+    </div>
+
+    <script type="text/javascript">
+        //<![CDATA[
+
+        var RfqData =  { RfqSideTabCssClass: 'requestQuoteGeneric', Items: [  { id: 'rfq-generic', elementSelectors: ['a.requestQuoteGeneric'], itemType: 'generic', itemName: '', itemId: 0, formTitle: 'Request a Quote or Further Information' }  ] } ;
+        
+
+        
+        
+
+        $(function () {
+
+            // scroll body to 0px on click
+            $(".topLink a").click(function () {
+                $("body,html").animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+
+            if (false) {
+                setupRfqFloatBox();
+            }
+
+            Azom.initRfqPage();
+
+            
+            
+            
+        });
+
+        
+         var contentViewData = { type: 'News', id: 61023 }; 
+                Azom.recordClientView();
+            
+
+        //]]>
+    </script>
+
+    
+
+    
+
+</body>
+</html>
